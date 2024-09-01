@@ -1,1 +1,2 @@
 # Synthetic-generation-of-anomaly-data
+This is the Github folder for the Laboratory "Computer Vision and Artificiale Intelligence". The project consists of training a Convolutional Neural Network that classifies images of grapes as either sick or healthy. First, the model gets trained with real data, then another model gets trained with real images of healthy grapes and synthetic images of sick grapes. The performance of the two models are then analyzed and compared.
