@@ -1,9 +1,4 @@
 # Synthetic-generation-of-anomaly-data
-To enhance the readability and informativeness of your GitHub README for the "Synthetic-generation-of-anomaly-data" project, consider expanding it with detailed sections and improving its structure. Here’s a revised version:
-
----
-
-# Synthetic Generation of Anomaly Data
 
 Welcome to the "Synthetic Generation of Anomaly Data" project repository! This project, developed by the Laboratory of Computer Vision and Artificial Intelligence, focuses on training Convolutional Neural Networks (CNNs) for the classification of grape images into two categories: healthy or sick. Below you will find an overview of the project, including data generation, model training, and performance evaluation.
 
